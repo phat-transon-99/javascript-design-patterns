@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/phat-transon-99/javascript-design-patterns#readme",
   "devDependencies": {
-    "eslint": "^8.28.0"
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2"
   }
 }
