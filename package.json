@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/phat-transon-99/javascript-design-patterns/issues"
   },
-  "homepage": "https://github.com/phat-transon-99/javascript-design-patterns#readme"
+  "homepage": "https://github.com/phat-transon-99/javascript-design-patterns#readme",
+  "devDependencies": {
+    "eslint": "^8.28.0"
+  }
 }
